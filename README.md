@@ -13,7 +13,7 @@ Para ejecutar los scripts solo hay que ubicarse en el directorio donde se encuen
 * **Grupo**: 8
 
 ## Trayecto - Ciencias Básicas
-* **Año académico**: Cuarto - Segundo Cuatrimestre
+* **Año académico**: Cuarto Año - Segundo Cuatrimestre
 * **Responsable / Jefe de catedra**: Mg. Eterovic Jorge
 * **Carga horaria semanal**: 4 hs
 * **Carga horaria total**: 64 hs
