@@ -18,8 +18,7 @@ Para ejecutar los scripts solo hay que ubicarse en el directorio donde se encuen
 * **Carga horaria semanal**: 4 hs
 * **Carga horaria total**: 64 hs
 * **Modalidad**: A distancia
-* **Correlativas anteriores**
-  + Probabilidad y Estadística (3651)
+* **Correlativa anterior**: Probabilidad y Estadística (3651)
  
 ## Docentes
 * Martin, Zeballos
