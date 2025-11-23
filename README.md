@@ -12,7 +12,7 @@ Para ejecutar los scripts solo hay que ubicarse en el directorio donde se encuen
 * **Año**: 2024
 * **Grupo**: 8
 
-## Trayecto Infraestructura
+## Trayecto - Ciencias Básicas
 * **Año académico**: Cuarto - Segundo Cuatrimestre
 * **Responsable / Jefe de catedra**: Mg. Eterovic Jorge
 * **Carga horaria semanal**: 4 hs
